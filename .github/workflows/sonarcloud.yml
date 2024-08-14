@@ -24,4 +24,4 @@ jobs:
           args: >
             -Dsonar.projectKey=Deepak-Leo_727722eucs039-APP_DEV
             -Dsonar.organization=deepak-leo
-            -Dsonar.exclusions=/*.java
+            -Dsonar.exclusions=**/*.java
